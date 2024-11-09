@@ -1,93 +1,55 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Descubre las mejores estratégias y/o métodos de aprendizaje 
+  content: 
   image: /images/banner-art.png
   button:
-    label: "Contact Us"
-    link: "/contact"
+    label: "Descubrir"
+    link: "/blog"
     enable: true
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: ¿Por qué aprender nuevas estratégias?
   features:
-  - name: "Clean Code"
+  - name: "Ahorrar tiempo"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+    content: "Obten una mayor eficiencia realizado tus tareas y actividades."
+  - name: "Mejores resultados"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
+    content: "Consigue mejores resultados en tus calificaciones."
+  - name: "Mayor conocimiento"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
-    icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
-    icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
-    icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Obten un conocimiento más amplio y profundo."
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "¿Qué es la gestión del tiempo?"
+    content: "La gestión del tiempo es la planificación y ejecución de un control de la cantidad de tiempo que se dedica a determinadas actividades, con el fin de ganar eficiencia y productividad."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
     button:
       enable: true
-      label: Check it out
+      label: Administra tu tiempo
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images: 
-      - "/images/service-slide-1.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
   
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
 
 # workflow
 workflow: 
-  title: "Experience the best workflow with us"
+  title: "Experimenta las mejores maneras de aprender"
   image: "/images/banner.png"
   description: ""
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: ¿Listo para aprender más?
+  content: Ve todos los contenidos que tenemos disponibles para que tu puedar seguir creciendo.
   image: '/images/cta.png'
   button:
     enable: true
-    label: "Contact Us"
+    label: "Aprender"
     link: "/contact"
 ---
