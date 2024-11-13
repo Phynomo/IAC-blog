@@ -5,7 +5,7 @@ banner:
   image: /images/banner-art.png
   button:
     label: "Descubrir"
-    link: "/blog"
+    link: "/blog/todos/1"
     enable: true
 
 # feature
