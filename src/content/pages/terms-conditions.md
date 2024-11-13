@@ -1,29 +1,32 @@
 ---
-title: "Terms and Conditions"
+title: "Términos y Condiciones"
 description: "this is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+Última actualización: 12 de noviembre de 2024
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Bienvenido a Optimiza tu Estudio (OTE) Al acceder y utilizar nuestros servicios, aceptas cumplir con los siguientes Términos y Condiciones. Te recomendamos que los leas detenidamente para entender tus derechos y obligaciones.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+#### Aceptación de los Términos
 
-#### Gathering of Personal Information
+Al registrarte o usar nuestros servicios, aceptas estos Términos y Condiciones, así como nuestra Política de Privacidad. Si no estás de acuerdo con alguna parte de los términos, te recomendamos no utilizar nuestra plataforma.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### Uso de la Plataforma
 
-#### Protection of Personal- Information
+Optimiza tu Estudio (OTE) ofrece herramientas y métodos de eficiencia y productividad para usuarios individuales y empresas. Aceptas usar la plataforma únicamente para fines legales y de acuerdo con estos términos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+- No puedes utilizar nuestros servicios para actividades ilícitas o no autorizadas.
+- Aceptas no manipular o intervenir en el funcionamiento de nuestra plataforma, así como no intentar obtener acceso no autorizado a nuestros sistemas.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+#### Responsabilidad del Usuario
 
-#### Privacy Policy Changes
+Como usuario, eres responsable de la información que proporciones y del uso que hagas de nuestros servicios. Aceptas no:
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+- Proporcionar información falsa o inexacta.
+- Compartir tu cuenta o credenciales de acceso con terceros.
+- Usar la plataforma para dañar la reputación de [Nombre de la Empresa/Plataforma] o de otros usuarios.
+
+#### Ley Aplicable
+
+Estos Términos y Condiciones se regirán por las leyes de Honduras. Cualquier conflicto o disputa que surja en relación con estos términos será resuelto en los tribunales de Honduras.
