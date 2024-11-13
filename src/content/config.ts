@@ -46,7 +46,7 @@ const homepage = defineCollection({
 });
 
 // Post collection schema
-const postsCollection = defineCollection({
+export const postsCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     meta_title: z.string().optional(),
@@ -54,7 +54,7 @@ const postsCollection = defineCollection({
     date: z.date().optional(),
     image: z.string().optional(),
     authors: z.array(z.string()).default(["admin"]),
-    categories: z.array(z.string()).default(["others"]),
+    categories: z.array(z.string()).default(["todos"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
   }),

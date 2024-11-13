@@ -1,8 +1,9 @@
 ---
 import { markdownify } from "@/lib/utils/textConverter";
 import { Image } from "astro:assets";
+import Breadcrumb from "./components/Breadcrumb.astro";
 
-const { post } = Astro.props;
+const { post, category } = Astro.props;
 const { Content } = await post.render();
 const { title, image } =
   post.data;
@@ -10,12 +11,14 @@ const { title, image } =
 
 <section class="section">
   <div class="container">
+    <Breadcrumb pages={[{page: 'blog - ' + category, route: `/blog/${category}/1`},{page: markdownify(title)}]}></Breadcrumb>
     <div class="row justify-center">
       <div class="col-12 md:col-8">
         <article class="text-center">
           {
             image && (
               <Image
+                transition:name={post.id}
                 src={image}
                 height={500}
                 width={1000}

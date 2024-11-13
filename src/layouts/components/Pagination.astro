@@ -1,5 +1,5 @@
 ---
-const { section, currentPage, totalPages } = Astro.props;
+const { section, currentPage, totalPages, category } = Astro.props;
 
 const indexPageLink = currentPage === 2;
 const hasPrevPage = currentPage > 1;
@@ -18,9 +18,10 @@ for (let i = 1; i <= totalPages; i++) {
       {hasPrevPage ? (
         <a
           href={
-            indexPageLink
-              ? `${section ? "/" + section : "/"}`
-              : `${section ? "/" + section : ""}/page/${currentPage - 1}`
+            // indexPageLink
+            //   ? `${section ? "/" + section : "/"}`
+            //   : `${section ? "/" + section : ""}/${category}/${currentPage - 1}`
+            `${section ? "/" + section : ""}/${category}/${currentPage - 1}`
           }
           class="inline-flex items-center justify-center px-2 py-2 rounded bg-theme-light w-[42px] h-[42px] text-center text-dark"
         >
@@ -70,9 +71,7 @@ for (let i = 1; i <= totalPages; i++) {
         ) : (
           <a
             href={
-              i === 0
-                ? `${section ? "/" + section : "/"}`
-                : `${section ? "/" + section : ""}/page/${pagination}`
+                `${section ? "/" + section : ""}/${category}/${pagination}`
             }
             aria-current="page"
             class={`rounded bg-theme-light w-[42px] h-[42px] text-center px-4 py-2 text-dark`}
@@ -85,7 +84,7 @@ for (let i = 1; i <= totalPages; i++) {
       {/* next page */}
       {hasNextPage ? (
         <a
-          href={`${section ? "/" + section : ""}/page/${currentPage + 1}`}
+          href={`${section ? "/" + section : ""}/${category}/${currentPage + 1}`}
           class="inline-flex items-center justify-center px-2 py-2 rounded bg-theme-light w-[42px] h-[42px] text-center text-dark"
         >
           <span class="sr-only">Next</span>

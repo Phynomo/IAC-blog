@@ -6,19 +6,19 @@
     },
     {
       "name": "Todos",
-      "url": "/blog"
+      "url": "/blog/todos/1"
     },
     {
       "name": "Métodos",
-      "url": "/pricing"
+      "url": "/blog/metodos/1"
     },
     {
       "name": "Tiempo",
-      "url": "/contact"
+      "url": "/blog/tiempo/1"
     },
     {
       "name": "Eficiencia",
-      "url": "/elements"
+      "url": "/blog/eficiencia/1"
     },
     {
       "name": "FAQ",

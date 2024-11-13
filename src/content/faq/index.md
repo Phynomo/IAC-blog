@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: Preguntas frecuentes
 draft: false
 faqs:
 - title: Will updates also be free?

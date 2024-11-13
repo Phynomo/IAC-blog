@@ -3,7 +3,7 @@ import { Image } from "astro:assets";
 import config from "@/config/config.json";
 import { plainify } from "@/lib/utils/textConverter";
 
-const { post, index } = Astro.props;
+const { post, index, category } = Astro.props;
 const { blog_folder, summary_length } = config.settings;
 ---
 
@@ -11,6 +11,7 @@ const { blog_folder, summary_length } = config.settings;
   {
     post.data.image && (
       <Image
+        transition:name={post.id}
         class="rounded-lg"
         src={post.data.image}
         alt={post.data.title}
@@ -20,12 +21,12 @@ const { blog_folder, summary_length } = config.settings;
     )
   }
   <h2 class="h3 mb-2 mt-4">
-    <a href={`/${blog_folder}/${post.slug}`} class="block hover:text-primary">
+    <a href={`/${blog_folder}/${category}/${post.slug}`} class="block hover:text-primary">
       {post.data.title}
     </a>
   </h2>
   <p set:html={plainify(post.body.slice(0, summary_length))} />
-  <a class="btn btn-primary mt-4" href={`/${blog_folder}/${post.slug}`} rel="">
+  <a class="btn btn-primary mt-4" href={`/${blog_folder}/${category}/${post.slug}`} rel="">
     Read More
   </a>
 </div>

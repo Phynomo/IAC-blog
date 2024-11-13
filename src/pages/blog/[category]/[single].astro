@@ -1,0 +1,38 @@
+---
+import Base from "@/layouts/Base.astro";
+import PostSingle from "@/layouts/PostSingle.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import config from "@/config/config.json";
+
+export async function getStaticPaths() {
+  const posts = await getSinglePage(config.settings.blog_folder as any);
+  let paths: { params: { category: string; single: any; }; props: { post: any; }; }[] = [];
+
+  posts.forEach((post: any) => {
+    post.data.categories.forEach((cat: string) => {
+      paths.push({
+          params: {
+            category: cat.toString(),
+            single: post.slug.toString(),
+          },
+          props: { post },
+        });
+    });
+  });
+  return paths;
+}
+
+const { category } = Astro.params;
+const { post } = Astro.props;
+
+const { title, meta_title, description, image } = post.data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <PostSingle category={category} post={post} />
+</Base>
