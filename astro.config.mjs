@@ -7,12 +7,14 @@ import { defineConfig, squooshImageService } from "astro/config";
 import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
-import deno from '@deno/astro-adapter';
+// import deno from '@deno/astro-adapter';
+// import {Buffer} from "https://deno.land/std/io/buffer.ts";
+
 
 // https://astro.build/config
 export default defineConfig({
-  output: 'server',
-  adapter: deno(),
+  // output: 'server',
+  // adapter: deno(),
   site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
