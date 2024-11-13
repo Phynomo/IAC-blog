@@ -7,6 +7,7 @@ import social from "@/config/social.json";
 import { markdownify } from "@/lib/utils/textConverter";
 
 const { footer_content, copyright } = config.params;
+
 ---
 
 <footer class="section bg-theme-light pb-0">
@@ -17,7 +18,7 @@ const { footer_content, copyright } = config.params;
         menu.footer.map((col) => {
           return (
             <div class="mb-12 sm:col-6 lg:col-3">
-              <h2 class="h4" set:html={markdownify(col.name)} />
+              <h4 set:html={markdownify(col.name)} />
               <ul class="mt-6">
                 {col?.menu.map((item) => (
                   <li class="mb-1">

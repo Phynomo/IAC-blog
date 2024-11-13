@@ -27,48 +27,48 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Optimiza tu Estudio ",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Inicio",
+          "url": "/"
         },
         {
-          "text": "Quick Start",
-          "url": "#"
+          "text": "Todos",
+          "url": "/blog"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "Productos",
       "menu": [
         {
-          "text": "Features",
-          "url": "#"
+          "text": "Tiempo",
+          "url": "/contact"
         },
         {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
+          "text": "Métodos",
           "url": "/pricing"
+        },
+        {
+          "text": "Eficiencia",
+          "url": "/elements"
         }
       ]
     },
     {
-      "name": "Support",
+      "name": "Soporte",
       "menu": [
         {
-          "text": "FAQ",
+          "text": "Preguntas frecuentes",
           "url": "/faq"
         },
         {
-          "text": "Privacy Policy",
+          "text": "Política de privacidad",
           "url": "/privacy-policy"
         },
         {
-          "text": "Terms & Conditions",
+          "text": "Términos y condiciones",
           "url": "/terms-conditions"
         }
       ]
