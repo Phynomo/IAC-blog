@@ -17,25 +17,44 @@ export async function getStaticPaths() {
   const posts = await getSinglePage(config.settings.blog_folder as any);
   const paths: { params: { category: string; slug: string } }[] = [];
 
+  // Crear un mapa para almacenar categorías y sus páginas sin duplicados
+  const uniquePaths: { [key: string]: Set<string> } = {};
+
   posts.forEach((post: any) => {
     post.data.categories.forEach((cat: string) => {
+      // Calcular el número total de páginas para esta categoría
       const totalPages = Math.ceil(
         posts.filter((x: any) => x.data.categories.includes(cat)).length /
           config.settings.pagination
       );
-      for (let i = 1; i <= totalPages; i++) {
-        paths.push({
-          params: {
-            category: cat.toString(),
-            slug: i.toString(),
-          },
-        });
+
+      // Inicializar el Set para la categoría si no existe
+      if (!uniquePaths[cat]) {
+        uniquePaths[cat] = new Set();
       }
+
+      // Agregar cada página de la categoría al Set
+      for (let i = 1; i <= totalPages; i++) {
+        uniquePaths[cat].add(i.toString());
+      }
+    });
+  });
+
+  // Convertir el mapa de uniquePaths en el array paths esperado
+  Object.keys(uniquePaths).forEach((category) => {
+    uniquePaths[category].forEach((slug) => {
+      paths.push({
+        params: {
+          category: category,
+          slug: slug,
+        },
+      });
     });
   });
 
   return paths;
 }
+
 
 const { slug, category } = Astro.params;
 const postIndex = (await getEntry<any, string>(
