@@ -25,7 +25,7 @@ Como usuario, eres responsable de la información que proporciones y del uso que
 
 - Proporcionar información falsa o inexacta.
 - Compartir tu cuenta o credenciales de acceso con terceros.
-- Usar la plataforma para dañar la reputación de [Nombre de la Empresa/Plataforma] o de otros usuarios.
+- Usar la plataforma para dañar la reputación de Optimiza tu Estudio (OTE) o de otros usuarios.
 
 #### Ley Aplicable
 
