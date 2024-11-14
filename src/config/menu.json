@@ -27,7 +27,7 @@
   ],
   "footer": [
     {
-      "name": "Optimiza tu Estudio ",
+      "name": "Optimiza tu estudio ",
       "menu": [
         {
           "text": "Inicio",
@@ -35,24 +35,24 @@
         },
         {
           "text": "Todos",
-          "url": "/blog"
+          "url": "/blog/todos/1"
         }
       ]
     },
     {
-      "name": "Productos",
+      "name": "Categorías",
       "menu": [
         {
           "text": "Tiempo",
-          "url": "/contact"
+          "url": "/blog/tiempo/1"
         },
         {
           "text": "Métodos",
-          "url": "/pricing"
+          "url": "/blog/metodos/1"
         },
         {
           "text": "Eficiencia",
-          "url": "/elements"
+          "url": "/blog/eficiencia/1"
         }
       ]
     },
