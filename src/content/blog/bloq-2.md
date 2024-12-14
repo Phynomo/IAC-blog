@@ -4,7 +4,7 @@ description: "La productividad es clave para alcanzar nuestras metas personales 
 image: "https://ethic.es/wp-content/uploads/2023/03/imagen.jpg"
 date: 2024-11-25T05:00:00Z
 draft: false 
-categories: ['tiempo','todos']
+categories: ['metodos', 'todos']
 authors: ['Monzerrath']
 tags: ['Pomodoro', 'Metodología', 'Eficiencia']
 --- 

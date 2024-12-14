@@ -1,11 +1,11 @@
 ---
 title: "Metodos de investigación"
 description: "Divide tu tiempo de estudio en intervalos de 25 minutos, seguidos de un descanso de 5 minutos. Esto te ayudará a mantener la concentración y a evitar la fatiga."
-image: "https://imgs.search.brave.com/Hfo0Gtj4Ft-vZgwY0PBEXkkTxkV8qvZhQiAsaf5BQI8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA4Lzg1LzE1LzY0/LzM2MF9GXzg4NTE1/NjQxMF8za3luWmU2/TTgwZFY3OUI1Y3Fo/SFhBYUFsTkUwRHYx/RS5qcGc"
+image: "https://www.gestiopolis.com/wp-content/uploads/2018/07/metodos-y-tecnicas-de-investigacion-1.jpg"
 date: 2024-11-14T05:00:00Z
 
 draft: false
-categories: ['metodos']
+categories: ['metodos', 'todos']
 authors: ['Maribel Alonzo']
 tags: ['Pomodoro', 'Metodología', 'Eficiencia', 'Resúmenes', 'Esquemas']
 ---
