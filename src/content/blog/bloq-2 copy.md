@@ -1,7 +1,7 @@
 ---
 title: "Métodos de Productividad"
 description: "La productividad es clave para alcanzar nuestras metas personales y profesionales. Mejorar cómo usamos nuestro tiempo y energía puede marcar una gran diferencia. A continuación, te presentamos algunas estrategias probadas para aumentar la productividad."
-image: ""
+image: "https://www.workmeter.com/wp-content/uploads/2021/12/productividad-en-el-trabajo-scaled.jpg"
 date: 2024-11-25T05:00:00Z
 draft: false 
 categories: ['metodos', 'todos']
