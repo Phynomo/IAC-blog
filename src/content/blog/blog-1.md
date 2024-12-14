@@ -5,7 +5,7 @@ image: "https://imgs.search.brave.com/Hfo0Gtj4Ft-vZgwY0PBEXkkTxkV8qvZhQiAsaf5BQI
 date: 2024-11-14T05:00:00Z
 
 draft: false
-categories: ['metodos']
+categories: ['todos','metodos']
 authors: ['Maribel Alonzo']
 tags: ['Pomodoro', 'Metodología', 'Eficiencia', 'Resúmenes', 'Esquemas']
 ---
