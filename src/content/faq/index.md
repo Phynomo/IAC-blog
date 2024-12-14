@@ -1,5 +1,5 @@
 ---
-title: "Preguntas frecuentes"
+title: Preguntas frecuentes
 draft: false
 faqs:
 - title: ¿Cómo estudiar con el método pomodoro? 
