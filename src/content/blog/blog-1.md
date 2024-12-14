@@ -1,183 +1,80 @@
 ---
-title: "Técnica de pomodoro"
+title: "Metodos de investigación"
 description: "Divide tu tiempo de estudio en intervalos de 25 minutos, seguidos de un descanso de 5 minutos. Esto te ayudará a mantener la concentración y a evitar la fatiga."
 image: "https://imgs.search.brave.com/Hfo0Gtj4Ft-vZgwY0PBEXkkTxkV8qvZhQiAsaf5BQI8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA4Lzg1LzE1LzY0/LzM2MF9GXzg4NTE1/NjQxMF8za3luWmU2/TTgwZFY3OUI1Y3Fo/SFhBYUFsTkUwRHYx/RS5qcGc"
 date: 2024-11-14T05:00:00Z
+
 draft: false
-categories: ['metodos', 'tiempo', 'eficiencia', 'todos']
-authors: ['Daniel Espinoza']
-tags: ['Pomodoro', 'Metodología', 'Eficiencia']
+categories: ['metodos']
+authors: ['Maribel Alonzo']
+tags: ['Pomodoro', 'Metodología', 'Eficiencia', 'Resúmenes', 'Esquemas']
 ---
 
-# Dillinger
-## _The Last Markdown Editor, Ever_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+## Guía para Aprender de Forma Eficiente
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+Aprender a estudiar de manera efectiva puede marcar la diferencia en tu desempeño académico y profesional. Existen diversos métodos de estudio que se adaptan a diferentes estilos de aprendizaje y objetivos. A continuación, exploramos algunas de las técnicas más populares y cómo aplicarlas.
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+- 1. Toma de Apuntes con el Método de Cornell
+- 2. La Técnica Pomodoro
+- 3. Mapas Mentales
+- 4. Resúmenes y Esquemas
+- 5. La Técnica Feynman
+- 6. Método SQ3R
+- 7. Flashcards
+- 8. Estudio Activo
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
 
-## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+###### 1. Toma de Apuntes con el Método de Cornell
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+- Este método organiza tus apuntes de forma clara y estructurada. Consiste en dividir la hoja en tres secciones: notas principales, palabras clave o preguntas y un resumen al final. Durante las clases, anota las ideas principales; posteriormente, agrega preguntas relevantes y redacta un resumen que condense la información.
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+###### 2. La Técnica Pomodoro
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+- Ideal para mejorar la concentración, esta técnica divide el tiempo de estudio en bloques de 25 minutos, seguidos de un descanso de 5 minutos. Después de cuatro ciclos, se toma un descanso más largo de 15 a 30 minutos. Es una herramienta excelente para evitar la procrastinación y mantener el foco.
 
-## Tech
+###### 3. Mapas Mentales
 
-Dillinger uses a number of open source projects to work properly:
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+Los mapas mentales son representaciones visuales que conectan conceptos relacionados. Coloca el tema principal en el centro y usa ramas para desarrollar subtemas. Añadir colores y dibujos ayuda a la memorización y hace que el estudio sea más atractivo.
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+###### 4. Resúmenes y Esquemas
 
-## Installation
+ Redactar resúmenes con tus propias palabras te obliga a procesar y comprender la información. Por otro lado, los esquemas organizan el contenido jerárquicamente, permitiendo identificar las ideas principales y secundarias de forma rápida.
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+ ###### 5. La Técnica Feynman
 
-Install the dependencies and devDependencies and start the server.
+ Este método consiste en explicar un tema complejo de forma sencilla, como si lo hicieras a un niño. Si encuentras dificultades al explicar, éstas señalan áreas que necesitas reforzar. Es una excelente estrategia para consolidar el conocimiento.
 
-```sh
-cd dillinger
-npm i
-node app
-```
+ ###### 6. Método SQ3R
 
-For production environments...
+ Este método (Survey, Question, Read, Recite, Review) es ideal para comprender textos. Primero, explora el contenido (“Survey”), formula preguntas (“Question”), lee activamente (“Read”), recita o resume lo aprendido (“Recite”) y repasa (“Review”) para reforzar.
 
-```sh
-npm install --production
-NODE_ENV=production node app
-```
+ ###### 7. Flashcards
 
-## Plugins
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+ Las tarjetas de estudio son útiles para memorizar conceptos, definiciones o fechas. Escribe una pregunta en un lado y la respuesta en el otro. Repásalas con frecuencia, priorizando aquellas que aún no dominas.
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
-## Development
+###### 8. Estudio Activo
 
-Want to contribute? Great!
+En lugar de leer pasivamente, interactúa con el material: haz preguntas, aplica lo aprendido a ejemplos prácticos y conecta nuevos conceptos con conocimientos previos. Este enfoque favorece una comprensión más profunda.
 
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
 
-Open your favorite Terminal and run these commands.
+#### Consejos Generales para el Estudio
 
-First Tab:
+- Establece un horario: Organiza tus sesiones de estudio para evitar sobrecargas.
 
-```sh
-node app
-```
+- Ambiente adecuado: Elige un lugar tranquilo y sin distracciones.
 
-Second Tab:
+- Descansa: Dormir bien y tomar pausas mejora la retención de información.
 
-```sh
-gulp watch
-```
+- Varía tus técnicas: Combinar métodos evita el aburrimiento y mejora el aprendizaje.
 
-(optional) Third:
 
-```sh
-karma test
-```
 
-#### Building for source
 
-For production release:
-
-```sh
-gulp build --prod
-```
-
-Generating pre-built zip archives for distribution:
-
-```sh
-gulp build dist --prod
-```
-
-## Docker
-
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
-
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
-
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
-
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
-
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
