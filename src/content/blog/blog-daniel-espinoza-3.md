@@ -5,7 +5,7 @@ image: "https://s3.us-west-2.amazonaws.com/content.podia.com/xc31ry93gsp16s1wnlt
 date: 2024-11-14T05:00:00Z
 
 draft: false
-categories: ['todos','tiempo']
+categories: ['todos','tiempo', 'eficiencia']
 authors: ['Daniel Espinoza']
 tags: ['Administración', 'Tiempo'] 
 ---

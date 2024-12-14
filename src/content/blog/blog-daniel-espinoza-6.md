@@ -2,39 +2,45 @@
 title: "Aumento de productividad"
 description: "Las estrategias para aumentar la productividad nos ayudan a ser más eficientes y a realizar de una mejor forma nuestros trabajos asignados."
 image: "https://www.lafactoriacreativa.com/wp-content/uploads/2023/03/productividad.png"
-date: 2024-12-14T05:00:00Z
+date: 2024-10-14T05:00:00Z
 
 draft: false
-categories: ['todos','tiempo']
+categories: ['todos','eficiencia']
 authors: ['Daniel Espinoza']
-tags: ['Administración', 'Tiempo'] 
+tags: ['Eficiencia', 'Productividad'] 
 ---
 
-### ¿Qué es la gestión del tiempo?
+Las estrategias para aumentar la productividad nos ayudan a ser más eficientes y a realizar de una mejor forma nuestros trabajos asignados. 
+Entre las estragáis de aprendizaje podemos encontrar:
 
-La gestión del tiempo es la planificación y ejecución de un control de la cantidad de tiempo que se dedica a determinadas actividades, con el fin de ganar eficiencia y productividad.
+###### Gestión eficiente del tiempo
+- Establecer un horario de estudio y mantenerse fiel a él.
+- Priorizar tareas y dividirlas en segmentos más manejables.
+- Utilizar herramientas de gestión del tiempo, como calendarios y aplicaciones móviles.
 
-El manejo del tiempo es esencial para la productividad y la eficiencia, tanto a nivel personal como profesional. Se puede abordar de muchas diferentes perspectivas o ámbitos clave del manejo del tiempo
+###### Técnicas de estudio efectivas
+-	Resumen y revisión regular de materiales estudiados.
+-	Uso de técnicas de aprendizaje activo, como la creación de flashcards o diagramas conceptuales.
+-	Práctica y aplicación de conceptos en ejercicios y problemas.
 
-### ¿Cómo llevar a cabo la gestión del tiempo?                
 
-Ahora que ya les entiendes qué es la gestión del tiempo en el trabajo aquí tienes consejos de cómo gestionar tu tiempo.
+###### Automatización de tareas
+-	Utilizar herramientas de automatización, como aplicaciones de escritorio o asistentes virtuales, para realizar tareas repetitivas o administrativas.
+-	Implementar sistemas de organización digital, como listas de tareas o agendas electrónicas.
 
-###### Planificación y organización 
-- Este ámbito se centra en cómo estructurar nuestro tiempo a través planificaciones y agendas.
+###### Fomento de la motivación y el compromiso
+-	Establecer metas claras y alcanzables para cada asignatura o proyecto.
+-	Celebrar logros y progresos realizados.
+-	Encontrar apoyo y retroalimentación en compañeros de clase o profesores.
 
-###### Define las prioridades
-- Después define las prioridades de tu día a día ¿Qué es lo más importante que hay que entregar hoy? Haz una lista de todo, utiliza un planificador, el calendario de tu teléfono móvil, una aplicación de gestión de proyectos o cualquier herramienta que te sirva.
-El principio de Pareto dice que el 80% de tu éxito proviene del 20% de tus actividades. Y ese 20% el que debes identificar y poner como prioridad.
+###### Desarrollo de habilidades y competencias
+-	Aprender a priorizar y gestionar el estrés.
+-	Desarrollar habilidades de comunicación efectiva y resolución de conflictos.
+-	Aprender a utilizar herramientas y tecnologías para el aprendizaje y la productividad. 
 
-###### Establece plazos 
-- Cuando se tiene un objetivo tangible, resulta mucho más fácil realizar una tarea. El plazo funciona como un incentivo para realización de las actividades. Además, con las fechas definidas los gestores pueden hacer un definidas los gestores pueden hacer un seguimiento de entregas.
+###### Equilibrio entre el estudio y la vida personal
+-	Establecer límites claros entre el tiempo de estudio y el tiempo libre.
+-	Practicar actividades físicas y de relajación para reducir el estrés y mejorar la concentración.
+-	Mantener una buena relación con amigos y familiares.
 
-###### Imprevistos predecibles
-- Tienes que entender que los imprevistos ocurren y que, aunque no tengas el control sobre el tiempo que te van a quitar el día, tienes que planificar los huecos en tu agenda.
-###### Resumen
-- Manejo personal: organizar y equilibrar las actividades que son importantes para el bienestar individual.
-- Manejo profesional: Gestionar eficazmente las tareas laborales y el proyecto para ser productivo.
-- Manejo social y familiar: Dedicar tiempo a relaciones personales y actividades sociales asegurando el equilibrio con las esponsabilidades personales y profesionales.
 
-El manejo efectivo del tiempo en esos tres ámbitos es esencial y para una vida equilibrada y satisfactoria.

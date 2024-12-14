@@ -5,7 +5,7 @@ image: "https://www.metacontratas.com/wp-content/uploads/2022/07/125.-IMAGEN-sca
 date: 2024-12-14T05:00:00Z
 
 draft: false
-categories: ['todos','tiempo']
+categories: ['todos','tiempo', 'eficiencia']
 authors: ['Daniel Espinoza']
 tags: ['Administración', 'Tiempo'] 
 ---

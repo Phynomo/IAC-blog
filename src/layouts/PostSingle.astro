@@ -5,8 +5,7 @@ import Breadcrumb from "./components/Breadcrumb.astro";
 
 const { post, category } = Astro.props;
 const { Content } = await post.render();
-const { title, image } =
-  post.data;
+const { title, image, authors } = post.data;
 ---
 
 <section class="section">
@@ -32,6 +31,17 @@ const { title, image } =
           <div class="content mb-16 text-left">
             <Content />
             <!-- <Markdown content={post.body} components={shortcodes} /> -->
+          </div>
+
+          <div class="text-start">
+            <div class="text-lg font-bold">
+            {
+              authors.length > 0 ? "Autores:":""  
+            }
+            </div>
+            <ul class="list-disc mt-2">
+              {authors.map((a:string) => <li class="font-medium">{a}</li>)}
+            </ul>
           </div>
           
         </article>
