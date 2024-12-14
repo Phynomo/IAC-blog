@@ -1,7 +1,7 @@
 ---
 title: "Métodos para Mejorar la Toma de Decisiones"
 description: "Tomamos decisiones continuamente, a veces ni siquiera somos conscientes de ello. A lo largo del día tomamos decenas, incluso centenas, de decisiones."
-image: "https://static.vecteezy.com/system/resources/previews/006/409/491/non_2x/people-thinking-to-make-decision-problem-solving-and-find-creative-ideas-with-question-mark-in-flat-cartoon-background-for-poster-illustration-vector.jpg"
+image: "https://blogs.ucontinental.edu.pe/wp-content/uploads/2020/09/cinco-recomendaciones-para-tomar-decisiones-acertadas-y-oportunas-uc-1-universidad-continental.jpg"
 date: 2024-11-25T05:00:00Z
 draft: false 
 categories: ['metodos', 'todos']

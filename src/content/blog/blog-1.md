@@ -1,7 +1,7 @@
 ---
 title: "Metodos de investigación"
 description: "Divide tu tiempo de estudio en intervalos de 25 minutos, seguidos de un descanso de 5 minutos. Esto te ayudará a mantener la concentración y a evitar la fatiga."
-image: "https://imgs.search.brave.com/Hfo0Gtj4Ft-vZgwY0PBEXkkTxkV8qvZhQiAsaf5BQI8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA4Lzg1LzE1LzY0/LzM2MF9GXzg4NTE1/NjQxMF8za3luWmU2/TTgwZFY3OUI1Y3Fo/SFhBYUFsTkUwRHYx/RS5qcGc"
+image: "https://www.jaimerodriguez.mx/wp-content/uploads/2024/03/metodologia-investigacion.jpg"
 date: 2024-11-14T05:00:00Z
 
 draft: false

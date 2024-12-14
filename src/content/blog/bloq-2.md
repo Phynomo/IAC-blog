@@ -1,7 +1,7 @@
 ---
 title: "Métodos para Aumentar la Productividad"
 description: "La productividad es clave para alcanzar nuestras metas personales y profesionales. Mejorar cómo usamos nuestro tiempo y energía puede marcar una gran diferencia. A continuación, te presentamos algunas estrategias probadas para aumentar la productividad."
-image: "https://ethic.es/wp-content/uploads/2023/03/imagen.jpg"
+image: "https://www.workmeter.com/wp-content/uploads/2021/12/productividad-en-el-trabajo-scaled.jpg"
 date: 2024-11-25T05:00:00Z
 draft: false 
 categories: ['metodos', 'todos']
@@ -60,4 +60,5 @@ Identifica actividades repetitivas que puedan ser automatizadas mediante herrami
 - Reflexiona al final del día: Evalúa lo que lograste y ajusta tu plan para el día siguiente.
 
 - Aprende a decir "no": No aceptes compromisos innecesarios que puedan desviar tu atención.
+
 
