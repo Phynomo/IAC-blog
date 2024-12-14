@@ -5,7 +5,7 @@ import Breadcrumb from "./components/Breadcrumb.astro";
 
 const { post, category } = Astro.props;
 const { Content } = await post.render();
-const { title, image, authors } = post.data;
+const { title, image, authors, tags } = post.data;
 ---
 
 <section class="section">
@@ -26,6 +26,16 @@ const { title, image, authors } = post.data;
               />
             )
           }
+          {
+            tags.length > 0 && (
+              <div class="flex flex-row justify-start items-center mt-3">
+                {tags.map((t:string) =>
+                <div class="rounded-md bg-primary py-0.5 px-2.5 mx-1 border border-transparent text-xs text-white transition-all shadow-sm">
+                {t}
+                </div>)}
+              </div>
+            )
+          }
           <h1 set:html={markdownify(title)} class="h2 text-left my-6" />
     
           <div class="content mb-16 text-left">
@@ -36,7 +46,7 @@ const { title, image, authors } = post.data;
           <div class="text-start">
             <div class="text-lg font-bold">
             {
-              authors.length > 0 ? "Autores:":""  
+              authors.length > 0 && "Autores:"  
             }
             </div>
             <ul class="list-disc mt-2">
